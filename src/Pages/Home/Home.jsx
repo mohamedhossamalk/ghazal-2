@@ -83,21 +83,15 @@ const Home = () => {
           <p className="footer-creator">
             Developed by{" "}
             <a
-              href="https://vishalsinghrawat.netlify.app/"
+              href="https://makdigitalpro.org/"
               target="_blank"
               rel="noreferrer"
             >
-              Vishal Singh Rawat
+              MAK DIGITAL PRO
             </a>
           </p>
           <div className="footer-url" rel="noopener">
-            <a
-              href="https://github.com/vishalsinghrawat29/minute"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <BsGithub />
-            </a>
+           
 
             <a
               href="https://twitter.com/vsrawat2906"
